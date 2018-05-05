@@ -12,7 +12,7 @@ html, body {
 
 /* Spec Styles */
 body {
-  background-color: #ccc;
+  background-color: #e2e2e2;
   font-family: Lato, sans-serif;
 }
 
@@ -76,8 +76,10 @@ header p {
 .state-finder {
   margin-top: 20px;
   background-color: #eee;
+  padding: 20px;
 }
 .state-finder h2 {
+  margin-top: 0;
   margin-bottom: 20px;
   font-size: 20px;
 }
